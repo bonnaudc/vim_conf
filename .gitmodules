@@ -28,3 +28,6 @@
 [submodule ".vim/bundle/closetag"]
 	path = .vim/bundle/closetag
 	url = git://github.com/docunext/closetag.vim.git
+[submodule ".vim/bundle/vim-jsx"]
+	path = .vim/bundle/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
