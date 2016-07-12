@@ -47,6 +47,9 @@ let g:auto_save_silent = 0                  " do not display the auto-save notif
 " Nerdcommenter
 let mapleader=","                           " remplacement \ par , (touche Leader)
 set timeout timeoutlen=1500                 " modification timeout pour touche Leader
+
+" Vim-jsx
+let g:jsx_ext_required = 1                  " Allow JSX in normal JS files
 """"""""""""""""""""""""""""""""""""""""""""""""""
 " en test
 """"""""""""""""""""""""""""""""""""""""""""""""""
