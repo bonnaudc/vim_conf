@@ -34,6 +34,3 @@
 [submodule ".vim/bundle/vim-javascript"]
 	path = .vim/bundle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
-[submodule ".vim/bundle/vim-react-es6-snippets"]
-	path = .vim/bundle/vim-react-es6-snippets
-	url = https://github.com/bentayloruk/vim-react-es6-snippets.git
