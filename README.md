@@ -4,5 +4,5 @@ my vim configuration
 ## Install
 
 ```
-curl https://github.com/cyrillebonnaud/vim_conf/master/install.sh | sh
+curl https://raw.githubusercontent.com/cyrillebonnaud/vim_conf/master/install.sh | sh
 ```
