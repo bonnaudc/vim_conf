@@ -36,6 +36,15 @@ set ruler
 set shiftwidth=4                            " nombre de tabulation pour l'indentation
 set tabstop=4					            " nombre d'espace pour une tabulation
 
+""""""""""""""""""""""""""""""""""""""""""""""""""
+" folding
+""""""""""""""""""""""""""""""""""""""""""""""""""
+set foldmethod=syntax
+set foldlevelstart=1
+
+let sh_fold_enabled=1         " sh
+let vimsyn_folding='af'       " Vim script
+let xml_syntax_folding=1      " XML
 
 """"""""""""""""""""""""""""""""""""""""""""""""""
 " conf plugin
