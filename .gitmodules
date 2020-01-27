@@ -22,7 +22,7 @@
 [submodule ".vim/bundle/vim-javascript"]
 	path = .vim/bundle/vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
-[submodule ".vim/bundle/chordpro"]
+[submodule ".vim/bundle/chordpro.vim"]
 	path = .vim/bundle/chordpro.vim
 	url = https://github.com/vim-scripts/chordpro.vim.git
 	
