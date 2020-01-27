@@ -34,7 +34,7 @@
 [submodule ".vim/bundle/vim-react-es6-snippets"]
 	path = .vim/bundle/vim-react-es6-snippets
 	url = https://github.com/bentayloruk/vim-react-es6-snippets.git
-[submodule ".vim/bundle/chordpro-vim"]
+[submodule ".vim/bundle/chordpro"]
 	path = .vim/bundle/chordpro
 	url = https://github.com/vim-scripts/chordpro.vim.git
 	
